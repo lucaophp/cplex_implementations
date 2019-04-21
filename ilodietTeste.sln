@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ilodiet", "ilodiet.vcxproj", "{45AAFCD3-FB98-470F-8499-2AC847EE70E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C7262F9-CE68-497D-B9A8-4F00DCB746A3}"
+	ProjectSection(SolutionItems) = preProject
+		mochila.csv = mochila.csv
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_100_50.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_100_50.txt
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_200_100.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_200_100.txt
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_300_100.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_300_100.txt
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_400_100.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_10_400_100.txt
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_100_50.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_100_50.txt
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_200_50.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_200_50.txt
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_70_50.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_70_50.txt
+		..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_80_50.txt = ..\..\..\..\..\..\..\..\Users\lucao\Downloads\pmedianas\pm_5_80_50.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45AAFCD3-FB98-470F-8499-2AC847EE70E6}.Debug|x64.ActiveCfg = Debug|x64
+		{45AAFCD3-FB98-470F-8499-2AC847EE70E6}.Debug|x64.Build.0 = Debug|x64
+		{45AAFCD3-FB98-470F-8499-2AC847EE70E6}.Release|x64.ActiveCfg = Release|x64
+		{45AAFCD3-FB98-470F-8499-2AC847EE70E6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
